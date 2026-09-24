@@ -1,4 +1,4 @@
-# Embedded Linux Driver Notes
+# 嵌入式 Linux Driver Notes
 
 基于 **Linux 4.9.88 / i.MX6ULL** 整理的一套驱动学习笔记。
 
